@@ -1,5 +1,1 @@
-2025/11/26-16:20:16.794 3f14 Log #3: 4 ops saved to Table #4 OK
-2025/11/26-16:20:16.796 3f14 Archiving C:\Users\User\Documents\Unreal Projects\Buildout\Saved\webcache_6613\Default\Site Characteristics Database/000003.log: OK
-2025/11/26-16:20:16.796 3f14 Table #4: 4 entries OK
-2025/11/26-16:20:16.798 3f14 Archiving C:\Users\User\Documents\Unreal Projects\Buildout\Saved\webcache_6613\Default\Site Characteristics Database/MANIFEST-000001: OK
-2025/11/26-16:20:16.805 3f14 **** Repaired leveldb C:\Users\User\Documents\Unreal Projects\Buildout\Saved\webcache_6613\Default\Site Characteristics Database; recovered 1 files; 236 bytes. Some data may have been lost. ****
+2025/11/26-16:20:16.808 3f14 Reusing MANIFEST C:\Users\User\Documents\Unreal Projects\Buildout\Saved\webcache_6613\Default\Site Characteristics Database/MANIFEST-000001
