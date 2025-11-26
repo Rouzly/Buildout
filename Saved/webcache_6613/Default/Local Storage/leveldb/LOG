@@ -1,3 +1,2 @@
-2025/11/25-21:03:13.027 4dd8 Reusing MANIFEST C:\Users\rouz\Documents\Unreal Projects\BuildOut\Saved\webcache_6613\Default\Local Storage\leveldb/MANIFEST-000001
-2025/11/25-21:03:13.032 4dd8 Recovering log #3
-2025/11/25-21:03:13.033 4dd8 Reusing old log C:\Users\rouz\Documents\Unreal Projects\BuildOut\Saved\webcache_6613\Default\Local Storage\leveldb/000003.log 
+2025/11/26-16:20:16.816 5ba0 Creating DB C:\Users\User\Documents\Unreal Projects\Buildout\Saved\webcache_6613\Default\Local Storage\leveldb since it was missing.
+2025/11/26-16:20:16.834 5ba0 Reusing MANIFEST C:\Users\User\Documents\Unreal Projects\Buildout\Saved\webcache_6613\Default\Local Storage\leveldb/MANIFEST-000001
