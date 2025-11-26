@@ -1,0 +1,22 @@
+[21356:19776:1126/212858.227:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[21356:19776:1126/212858.265:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[21356:27636:1126/212858.277:ERROR:external_registry_loader_win.cc(144)] Missing value path for key Software\Google\Chrome\Extensions\kadaohckdkghfaclhjmkmplebcdcnfnp.
+[21356:28544:1126/212859.306:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\User\Documents\Unreal Projects\Buildout\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\User\Documents\Unreal Projects\Buildout\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[21356:28544:1126/212859.308:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\User\Documents\Unreal Projects\Buildout\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\User\Documents\Unreal Projects\Buildout\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[21356:28544:1126/212859.310:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\User\Documents\Unreal Projects\Buildout\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\User\Documents\Unreal Projects\Buildout\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[21356:28544:1126/212859.312:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\User\Documents\Unreal Projects\Buildout\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\User\Documents\Unreal Projects\Buildout\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[21356:3740:1126/212900.701:WARNING:value_store_frontend.cc(47)] Reading ahfgeienlihckogmohjhadlkjgocpleb.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[21356:3740:1126/212900.703:WARNING:value_store_frontend.cc(47)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[24280:1468:1126/212900.896:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-B70E280B100720954F409FCFE3CB5448 will be ignored
+[21356:28040:1126/212901.470:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
+[21356:19776:1126/212901.676:WARNING:browser_info.cc(345)] Returning a speculative frame for [10,9]
+[21356:19776:1126/212901.676:WARNING:browser_info.cc(345)] Returning a speculative frame for [10,9]
+[21356:19776:1126/212901.676:WARNING:browser_info.cc(345)] Returning a speculative frame for [10,9]
+[21356:19776:1126/212901.676:WARNING:browser_info.cc(345)] Returning a speculative frame for [10,9]
+[21356:28040:1126/212901.679:WARNING:browser_info.cc(345)] Returning a speculative frame for [10,9]
+[14156:28488:1126/212901.941:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 6-F06CF85203DFBF12177E9113A76D7DE7 will be ignored
+[21356:9688:1126/212902.971:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\User\Documents\Unreal Projects\Buildout\Saved\webcache_6613\Default\GCM Store\Encryption: IO error: C:\Users\User\Documents\Unreal Projects\Buildout\Saved\webcache_6613\Default\GCM Store\Encryption/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[6900:19772:1126/212904.044:WARNING:backend_impl.cc(1764)] Destroying invalid entry.
+[27288:12636:1126/213109.172:ERROR:shared_image_manager.cc(224)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+[27288:12636:1126/213109.173:ERROR:shared_image_manager.cc(224)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+[21356:19776:1126/231800.030:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
