@@ -1,15 +1,10 @@
-[8668:5452:1127/190034.018:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[8668:5452:1127/190034.030:ERROR:os_crypt_win.cc(100)] Failed to decrypt: Ключ не может быть использован в указанном состоянии. (0x8009000B)
-[8668:5452:1127/190034.071:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[13520:7680:1127/190036.588:ERROR:backend_impl.cc(989)] Critical error found -8
-[8668:7732:1127/190041.367:ERROR:cast_crl.cc(443)] CRL - Verification failed.
-[13520:7680:1127/190045.088:WARNING:storage_block-inl.h(138)] Failed data load.
-[13520:18072:1127/190421.012:WARNING:spdy_session.cc(2985)] Received HEADERS for invalid stream 1
-[13520:18072:1127/190421.013:WARNING:spdy_session.cc(2985)] Received HEADERS for invalid stream 3
-[8668:5452:1127/193248.125:ERROR:device_event_log_impl.cc(196)] [19:32:47.957] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Элемент не найден. (0x490)
-[8668:5452:1127/193248.125:ERROR:device_event_log_impl.cc(196)] [19:32:47.981] USB: usb_service_win.cc:308 SetupDiEnumDeviceInterfaces: Дополнительные данные отсутствуют. (0x103)
-[8668:5452:1127/193944.591:ERROR:device_event_log_impl.cc(196)] [19:39:44.412] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Элемент не найден. (0x490)
-[8668:5452:1127/193944.592:ERROR:device_event_log_impl.cc(196)] [19:39:44.447] USB: usb_service_win.cc:308 SetupDiEnumDeviceInterfaces: Дополнительные данные отсутствуют. (0x103)
-[8668:5452:1127/193956.263:ERROR:device_event_log_impl.cc(196)] [19:39:56.131] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Элемент не найден. (0x490)
-[8668:5452:1127/193956.263:ERROR:device_event_log_impl.cc(196)] [19:39:56.166] USB: usb_service_win.cc:308 SetupDiEnumDeviceInterfaces: Дополнительные данные отсутствуют. (0x103)
-[8668:5452:1127/211239.425:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
+[6804:20080:1127/221613.702:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[6804:20080:1127/221613.759:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[20896:20900:1127/221616.630:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-ECDFCD623740F023540D4BA5E69D488A will be ignored
+[6804:20604:1127/221629.966:WARNING:browser_info.cc(345)] Returning a speculative frame for [7,9]
+[6804:20080:1127/221630.471:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
+[6804:20080:1127/221630.471:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
+[6804:20080:1127/221630.471:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
+[6804:20080:1127/221630.471:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
+[6804:20604:1127/221630.474:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
+[6804:20080:1127/221830.134:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
