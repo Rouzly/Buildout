@@ -1,19 +1,0 @@
-[22624:25936:1126/172537.144:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[22624:25936:1126/172537.198:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[22624:26684:1126/172537.213:ERROR:external_registry_loader_win.cc(144)] Missing value path for key Software\Google\Chrome\Extensions\kadaohckdkghfaclhjmkmplebcdcnfnp.
-[22624:3484:1126/172539.491:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\User\Documents\Unreal Projects\Buildout\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\User\Documents\Unreal Projects\Buildout\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[22624:3484:1126/172539.492:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\User\Documents\Unreal Projects\Buildout\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\User\Documents\Unreal Projects\Buildout\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[22624:3484:1126/172539.493:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\User\Documents\Unreal Projects\Buildout\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\User\Documents\Unreal Projects\Buildout\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[22624:3484:1126/172539.495:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\User\Documents\Unreal Projects\Buildout\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\User\Documents\Unreal Projects\Buildout\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[22624:8704:1126/172539.731:WARNING:value_store_frontend.cc(47)] Reading ahfgeienlihckogmohjhadlkjgocpleb.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[22624:8704:1126/172539.732:WARNING:value_store_frontend.cc(47)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[17784:15300:1126/172539.957:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-2D571E0806775487091A3AF008A699AC will be ignored
-[22624:1876:1126/172541.631:WARNING:browser_info.cc(345)] Returning a speculative frame for [7,9]
-[22624:25936:1126/172541.861:WARNING:browser_info.cc(345)] Returning a speculative frame for [8,9]
-[22624:25936:1126/172541.861:WARNING:browser_info.cc(345)] Returning a speculative frame for [8,9]
-[22624:25936:1126/172541.861:WARNING:browser_info.cc(345)] Returning a speculative frame for [8,9]
-[22624:25936:1126/172541.861:WARNING:browser_info.cc(345)] Returning a speculative frame for [8,9]
-[22624:1876:1126/172541.863:WARNING:browser_info.cc(345)] Returning a speculative frame for [8,9]
-[22624:10436:1126/172542.688:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\User\Documents\Unreal Projects\Buildout\Saved\webcache_6613\Default\GCM Store\Encryption: IO error: C:\Users\User\Documents\Unreal Projects\Buildout\Saved\webcache_6613\Default\GCM Store\Encryption/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[8836:16748:1126/173944.666:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame C-A33C45AB7F99CD305DD1BA4D002AB3CC will be ignored
-[22624:25936:1126/175526.008:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
