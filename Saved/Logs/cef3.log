@@ -1,12 +1,15 @@
-[10204:8432:1127/133334.543:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[10204:8432:1127/133334.576:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[10204:3616:1127/133334.586:ERROR:external_registry_loader_win.cc(144)] Missing value path for key Software\Google\Chrome\Extensions\kadaohckdkghfaclhjmkmplebcdcnfnp.
-[10204:28068:1127/133335.228:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\User\Documents\Unreal Projects\Buildout\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\User\Documents\Unreal Projects\Buildout\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[10204:28068:1127/133335.229:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\User\Documents\Unreal Projects\Buildout\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\User\Documents\Unreal Projects\Buildout\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[10204:20928:1127/133335.231:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\User\Documents\Unreal Projects\Buildout\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\User\Documents\Unreal Projects\Buildout\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[10204:20928:1127/133335.232:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\User\Documents\Unreal Projects\Buildout\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\User\Documents\Unreal Projects\Buildout\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[10204:25548:1127/133336.822:WARNING:value_store_frontend.cc(47)] Reading ahfgeienlihckogmohjhadlkjgocpleb.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[10204:25548:1127/133336.823:WARNING:value_store_frontend.cc(47)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[12684:15836:1127/133338.195:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 6-1D1D300424DC95C3AEB7721CEF60019A will be ignored
-[10204:24920:1127/133340.187:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\User\Documents\Unreal Projects\Buildout\Saved\webcache_6613\Default\GCM Store\Encryption: IO error: C:\Users\User\Documents\Unreal Projects\Buildout\Saved\webcache_6613\Default\GCM Store\Encryption/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[10204:8432:1127/163253.896:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
+[8668:5452:1127/190034.018:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[8668:5452:1127/190034.030:ERROR:os_crypt_win.cc(100)] Failed to decrypt: Ключ не может быть использован в указанном состоянии. (0x8009000B)
+[8668:5452:1127/190034.071:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[13520:7680:1127/190036.588:ERROR:backend_impl.cc(989)] Critical error found -8
+[8668:7732:1127/190041.367:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[13520:7680:1127/190045.088:WARNING:storage_block-inl.h(138)] Failed data load.
+[13520:18072:1127/190421.012:WARNING:spdy_session.cc(2985)] Received HEADERS for invalid stream 1
+[13520:18072:1127/190421.013:WARNING:spdy_session.cc(2985)] Received HEADERS for invalid stream 3
+[8668:5452:1127/193248.125:ERROR:device_event_log_impl.cc(196)] [19:32:47.957] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Элемент не найден. (0x490)
+[8668:5452:1127/193248.125:ERROR:device_event_log_impl.cc(196)] [19:32:47.981] USB: usb_service_win.cc:308 SetupDiEnumDeviceInterfaces: Дополнительные данные отсутствуют. (0x103)
+[8668:5452:1127/193944.591:ERROR:device_event_log_impl.cc(196)] [19:39:44.412] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Элемент не найден. (0x490)
+[8668:5452:1127/193944.592:ERROR:device_event_log_impl.cc(196)] [19:39:44.447] USB: usb_service_win.cc:308 SetupDiEnumDeviceInterfaces: Дополнительные данные отсутствуют. (0x103)
+[8668:5452:1127/193956.263:ERROR:device_event_log_impl.cc(196)] [19:39:56.131] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Элемент не найден. (0x490)
+[8668:5452:1127/193956.263:ERROR:device_event_log_impl.cc(196)] [19:39:56.166] USB: usb_service_win.cc:308 SetupDiEnumDeviceInterfaces: Дополнительные данные отсутствуют. (0x103)
+[8668:5452:1127/211239.425:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
