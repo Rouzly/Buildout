@@ -1,0 +1,14 @@
+[10668:20320:1201/195947.816:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[10668:20320:1201/195948.352:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[9872:10060:1201/195952.251:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-CD970B51D05BA59E3AB2DDA0ED005C10 will be ignored
+[10668:4788:1201/195953.728:WARNING:browser_info.cc(345)] Returning a speculative frame for [7,9]
+[10668:20320:1201/195954.153:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
+[10668:20320:1201/195954.153:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
+[10668:20320:1201/195954.153:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
+[10668:20320:1201/195954.153:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
+[10668:4788:1201/195954.157:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
+[10668:4788:1201/195954.528:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[15524:3192:1201/200201.156:WARNING:spdy_session.cc(2985)] Received HEADERS for invalid stream 3
+[16268:15488:1201/200203.950:ERROR:shared_image_manager.cc(224)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+[16268:15488:1201/200203.951:ERROR:shared_image_manager.cc(224)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+[10668:20320:1201/222851.065:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
