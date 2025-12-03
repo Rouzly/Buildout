@@ -1,0 +1,7 @@
+[20160:17536:1203/180313.055:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[20160:17536:1203/180313.069:ERROR:os_crypt_win.cc(100)] Failed to decrypt: Ключ не может быть использован в указанном состоянии. (0x8009000B)
+[20160:17536:1203/180313.111:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[3028:18964:1203/180316.436:ERROR:backend_impl.cc(989)] Critical error found -8
+[3028:18964:1203/180316.861:WARNING:storage_block-inl.h(138)] Failed data load.
+[20160:8072:1203/185718.380:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[20160:17536:1203/192401.560:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
