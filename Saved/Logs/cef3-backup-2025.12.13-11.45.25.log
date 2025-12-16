@@ -1,0 +1,24 @@
+[16040:1588:1213/183853.587:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[16040:1588:1213/183853.794:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[16040:17024:1213/183853.824:ERROR:external_registry_loader_win.cc(144)] Missing value path for key Software\Google\Chrome\Extensions\kadaohckdkghfaclhjmkmplebcdcnfnp.
+[16040:12124:1213/183858.822:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\MaxxPC\Documents\Unreal Projects\Buildout\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\MaxxPC\Documents\Unreal Projects\Buildout\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[16040:12124:1213/183858.826:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\MaxxPC\Documents\Unreal Projects\Buildout\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\MaxxPC\Documents\Unreal Projects\Buildout\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[16040:12124:1213/183858.830:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\MaxxPC\Documents\Unreal Projects\Buildout\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\MaxxPC\Documents\Unreal Projects\Buildout\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[16040:12124:1213/183858.836:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\MaxxPC\Documents\Unreal Projects\Buildout\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\MaxxPC\Documents\Unreal Projects\Buildout\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[16040:21440:1213/183859.734:WARNING:value_store_frontend.cc(47)] Reading ahfgeienlihckogmohjhadlkjgocpleb.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[16040:21440:1213/183859.746:WARNING:value_store_frontend.cc(47)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[16040:14832:1213/183900.923:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\MaxxPC\Documents\Unreal Projects\Buildout\Saved\webcache_6613\Default\GCM Store\Encryption: IO error: C:\Users\MaxxPC\Documents\Unreal Projects\Buildout\Saved\webcache_6613\Default\GCM Store\Encryption/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[9224:19356:1213/183901.884:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-68767EC4374A7DA15467186E68EBD7A3 will be ignored
+[16040:8356:1213/183903.887:WARNING:browser_info.cc(345)] Returning a speculative frame for [8,5]
+[16040:1588:1213/183904.552:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,5]
+[16040:1588:1213/183904.552:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,5]
+[16040:1588:1213/183904.552:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,5]
+[16040:1588:1213/183904.553:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,5]
+[16040:8356:1213/183904.593:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,5]
+[16040:1588:1213/183919.555:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[3652:20312:1213/184122.638:ERROR:shared_image_manager.cc(224)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+[3652:20312:1213/184122.639:ERROR:shared_image_manager.cc(224)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+[16040:1588:1213/184124.647:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[16040:1588:1213/184130.099:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[16040:1588:1213/184250.117:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[16040:1588:1213/184525.439:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
